@@ -29,3 +29,22 @@
   340  git log
 
 hi this is prayag for training git.vhvhvhurvf
+
+
+343  git pull
+  344  cat aurion_autobuild
+  345  git remote -v
+  346  git config --list
+  347  git diff origin main
+  348  git sdiff origin main
+  349  git diff origin main
+  350  git diff origin
+  351  git diff main origin main
+  352  git diff origin
+  353  git fetch
+  354  cat aurion_autobuild
+  355  git diff origin
+  356  git diff origin
+  357  cat aurion_autobuild
+  358  git log
+  359  git pull
