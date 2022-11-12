@@ -48,3 +48,24 @@ hi this is prayag for training git.vhvhvhurvf
   357  cat aurion_autobuild
   358  git log
   359  git pull
+
+
+372  git add aurion_autobuild
+  373  git commit -m "revert this change"
+  374  git log
+  375  git revert e463572
+  376  git revert --abort
+  377  git revert e231702
+  378  git log
+  379  cat aurion_autobuild
+  380  vim aurion_autobuild
+  381  git status
+  382  git add aurion_autobuild
+  383  git commit -m "revert this change"
+  384  git push origin main
+  385  git log
+  386  git revert 022b4e2
+  387  git log
+  388  git revert 022b4e2
+  389  git reset --hard 022b4e2
+  390  git log --oneline
